@@ -23,7 +23,6 @@ Features include Player vs Player and Player vs AI modes, AI difficulty selectio
 
    ```bash
    git clone https://github.com/awakra/Tic-Tac-Toe.git
-   cd tic-tac-toe-python-gui
    ```
 
 2. Run the application:
