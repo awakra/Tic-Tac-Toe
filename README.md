@@ -1,4 +1,4 @@
-# Tic Tac Toe (Python GUI)
+# Tic Tac Toe
 
 A professional, modular Tic Tac Toe game built with Python and Tkinter.  
 Features include Player vs Player and Player vs AI modes, AI difficulty selection, score tracking, replay options, and window centering for a polished user experience.
@@ -23,7 +23,6 @@ Features include Player vs Player and Player vs AI modes, AI difficulty selectio
 
    ```bash
    git clone https://github.com/awakra/Tic-Tac-Toe.git
-   cd tic-tac-toe-python-gui
    ```
 
 2. Run the application:
